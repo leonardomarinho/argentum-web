@@ -1,7 +1,12 @@
-/bin
+# Pre-Compiled Files #
 *.class
+
+# Eclipse Files
 .project
 .classpath
+
+# Automatic Generated Files #
+*.applet
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
